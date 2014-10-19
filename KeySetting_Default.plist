@@ -20,7 +20,7 @@
 				<key>command</key>
 				<string>direct_input</string>
 				<key>character</key>
-				<string> </string>
+				<string>　</string>
 			</dict>
 			<key>delete:</key>
 			<dict>
