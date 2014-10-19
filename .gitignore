@@ -1,0 +1,7 @@
+*.lproj
+*.data
+*.help
+*.entitlements
+*.prefPane
+*.tiff
+*.dictionary
