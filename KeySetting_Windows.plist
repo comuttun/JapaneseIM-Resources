@@ -13,7 +13,7 @@
 				<key>command</key>
 				<string>direct_input</string>
 				<key>character</key>
-				<string>　</string>
+				<string> </string>
 			</dict>
 			<key>shift+&apos; &apos;</key>
 			<dict>
@@ -172,7 +172,7 @@
 			<key>option+&apos; &apos;</key>
 			<dict>
 				<key>character</key>
-				<string>　</string>
+				<string> </string>
 			</dict>
 			<key>control+&apos; &apos;</key>
 			<dict>
@@ -182,7 +182,7 @@
 			<key>shift+control+&apos; &apos;</key>
 			<dict>
 				<key>character</key>
-				<string>　</string>
+				<string> </string>
 			</dict>
 			<key>deleteBackward:</key>
 			<dict>
@@ -861,7 +861,7 @@
 				<key>command</key>
 				<string>direct_input</string>
 				<key>character</key>
-				<string>　</string>
+				<string> </string>
 			</dict>
 			<key>capslock_on</key>
 			<dict>
